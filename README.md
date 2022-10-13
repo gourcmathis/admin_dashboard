@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Exercice React création d'un [Dashboard Admin](https://gourcmathis.github.io/admin_dashboard/) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Suivez ce lien pour visualiser directement le site dpuis votre navigateur: [Dashboard Admin](https://gourcmathis.github.io/admin_dashboard/).
 
 ## Available Scripts
 
